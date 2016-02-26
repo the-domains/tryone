@@ -1,0 +1,28 @@
+name: tryone
+favicon: null
+layout_spectrum: 0.9905938094016165
+typography_spectrum: 0.10443252441473305
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.546654780395329
+  lightness: 0.8936448357999325
+  saturation: 0.4713387438096106
+  rhythmicContrast: 0.83914197050035
+purpose: []
